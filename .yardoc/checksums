@@ -1,0 +1,6 @@
+lib/awein.rb edceecfc48434727c43add618645187bd7872af9
+lib/awein/hash.rb 0a803ccba6df404eb6b521da663e4dcd16287033
+lib/awein/array.rb 2113bcaeff9a8b06f6b412d7d7ae1dfa780911d8
+lib/awein/number.rb e237e2758d99cb6eed6f2ae9f305b945c3fd578f
+lib/awein/string.rb 754f05d78decdc62706fefb2fe2511227cd8bbeb
+lib/awein/object.rb c4b40e02e353bc617fc36ef27a9edf48dbbecbf5
