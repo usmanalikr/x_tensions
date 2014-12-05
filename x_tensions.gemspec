@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'x_tensions'
   s.version     = '0.0.1'
-  s.date        = '2014-12-5'
+  s.date        = '2014-12-05'
   s.summary     = "Just a few useful extensions!"
   s.description = "Just a few useful extensions"
   s.authors     = ["Usman Ali"]
